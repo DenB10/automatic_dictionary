@@ -1,3 +1,33 @@
+# 3.9.0 (2024-06-03)
+
+
+### Bug Fixes
+
+* build xpi on release ([d22175f](https://github.com/beltrachi/automatic_dictionary/commit/d22175f600ce63db4a688a576714174db8093b8e))
+* **ci:** Thunderbird updater triggers CI now ([3bc3ec2](https://github.com/beltrachi/automatic_dictionary/commit/3bc3ec289b68c273c0749ac85745081634c9a196))
+* configure release to keep old changelog ([cab895c](https://github.com/beltrachi/automatic_dictionary/commit/cab895c60da0442be4f14ddd63fbde74c8691245))
+* language detection when subjet input is skipped ([05af1fb](https://github.com/beltrachi/automatic_dictionary/commit/05af1fbd22e2859b5e4994d2fe39006e9eb9dbdd)), closes [#156](https://github.com/beltrachi/automatic_dictionary/issues/156)
+* notification box concurrency issues make appear double notifications ([1c71e42](https://github.com/beltrachi/automatic_dictionary/commit/1c71e423c60c6c01d557dc495f5451bef204613b))
+* pre commit hook should be a CommonJS file ([2ca3596](https://github.com/beltrachi/automatic_dictionary/commit/2ca3596f509480496bca1b483570b50000878b77))
+* read version from manifest.json ([cc5ee3e](https://github.com/beltrachi/automatic_dictionary/commit/cc5ee3ef981689459105bf721ecc605b197ffbfc))
+* Support latest Thunderbird release 119.0 ([62c8d05](https://github.com/beltrachi/automatic_dictionary/commit/62c8d05bfcf9a0b9ee7531debc4a4ed1c0122d19))
+* Support latest Thunderbird release 120.0 ([ec23d1f](https://github.com/beltrachi/automatic_dictionary/commit/ec23d1fdf30985fbfea39142d494cb43c26122b4))
+* Support latest Thunderbird release 121.0 ([51b62a5](https://github.com/beltrachi/automatic_dictionary/commit/51b62a58a0ea9e762594370debc368dff59055b2))
+* Support latest Thunderbird release 122.0 ([f111780](https://github.com/beltrachi/automatic_dictionary/commit/f11178018fe6f6e007bcf2b24eed277f73ab281a))
+* You need to checkout code before creating release ([6b2d400](https://github.com/beltrachi/automatic_dictionary/commit/6b2d400d9c5e887dbf7e9a68311df00864c6a5e9))
+
+
+### Features
+
+* Adding lint checks on PRs to follow conventional commits ([68d71ca](https://github.com/beltrachi/automatic_dictionary/commit/68d71ca49fef53b033240115eff830cc1891d9a2))
+* Support latest Thunderbird release 123.0 ([5a84739](https://github.com/beltrachi/automatic_dictionary/commit/5a847398bca9e64cc9447a3b9a94cd2b58854209))
+* Support latest Thunderbird release 124.0 ([2187f88](https://github.com/beltrachi/automatic_dictionary/commit/2187f88d254db1224b36c901f3cffe313dfad6a4))
+* Support latest Thunderbird release 125.0 ([bafb2fe](https://github.com/beltrachi/automatic_dictionary/commit/bafb2febb28008f8d1a6fa526ecd589971e7a581))
+* Support latest Thunderbird release 126.0 ([9e3a86b](https://github.com/beltrachi/automatic_dictionary/commit/9e3a86baf9f275ce710e435243e2fd45e40e2e62))
+* Support latest Thunderbird release 127.0 ([97cb83d](https://github.com/beltrachi/automatic_dictionary/commit/97cb83ddfef572c6b04849decd70a3463bdd8aef))
+
+
+
 # [3.8.0](https://github.com/beltrachi/automatic_dictionary/compare/v3.7.0...v3.8.0) (2024-05-16)
 
 
